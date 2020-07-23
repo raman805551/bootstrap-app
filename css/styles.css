@@ -1,0 +1,61 @@
+#title{
+    background-color: #ff4c68;
+}
+
+.image{
+    
+    left: 20px;
+    display: inline-block;
+
+}
+
+.headText{
+    display: inline-block;
+}
+
+h1{
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+
+.container-fluid{
+    padding: 3% 15% ;
+}
+
+.navbar{
+    padding: 0 0 3.5rem;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+}
+.list-space{
+    margin: 0 1.5rem;
+}
+.image-size{
+    width: 50%;
+    margin-left: 80px;
+}
+
+.rotated {
+    transform: rotate(-25deg); 
+}
+
+.feature-box{
+text-align: center;
+padding: 4%;
+}
+
+.row-margin{
+    margin-top: 50px;
+}
+
+.font-col{
+   color: #ff4c68;
+}
+
+#features{
+    padding: 7% 14%;
+}
